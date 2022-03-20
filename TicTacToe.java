@@ -1,5 +1,3 @@
-import javax.swing.text.Highlighter.HighlightPainter;
-
 import processing.core.PApplet;
 
 public class TicTacToe extends PApplet {
